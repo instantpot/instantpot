@@ -1,0 +1,22 @@
+# Site settings
+title: Ricette per Instant Pot
+email: your-email@domain.com
+description: Le migliori ricette per la pentola magica.
+baseurl: ""
+twitter_username: 
+github_username:  instantpot
+
+# Build settings
+markdown: kramdown
+
+permalink: /:title:output_ext
+
+collections:
+  components:
+    output: true
+  recipes:
+    output: true
+
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
+production_url : https://instantpot.github.io/
+BASE_PATH : https://instantpot.github.io/
