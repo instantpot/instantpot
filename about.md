@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: Su di me
 permalink: /about/
 ---
 
-Chowdown, a plain text recipe database for hackers
+Ricettario per Instant Pot.
